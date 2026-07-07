@@ -1,0 +1,4 @@
+xe_do_line_IC2005_G1/build/
+
+H-Bridge Module/H-Bridge Module-backups/
+H-Bridge Module/fp-info-cache

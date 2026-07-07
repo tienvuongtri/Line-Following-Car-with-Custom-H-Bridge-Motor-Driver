@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UF4007")(type "KiCad")(uri "D:/Tool/KiCad/3D Model/UF4007/UF4007.kicad_sym")(options "")(descr ""))
+  (lib (name "L298N")(type "KiCad")(uri "D:/Tool/KiCad/3D Model/L298N/L298N.kicad_sym")(options "")(descr ""))
+)
